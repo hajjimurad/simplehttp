@@ -1,0 +1,1 @@
+directory to server static files
